@@ -1,0 +1,6 @@
+**/*
+!**/*.go
+!**/*.md
+!.gitignore
+!.pre-commit-config.yaml
+!**/
